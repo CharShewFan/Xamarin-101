@@ -1,5 +1,5 @@
 ﻿# Xamarin-101
 
-### clone to local repo
+### 1.clone to local repo
 
-### open by Visual Studio 
+### 2.open by Visual Studio 
