@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTHkN8VVbK9qmndpHw1HH+BY8/w89+1Ks+2auBHNZlXBzR0Sf6qfv7/i09JX4whPC9+p7d9w9zHYXWNEtea7eQ==",
+  "success": true,
+  "projectFilePath": "/Users/kevinlee/visual studio projects/xamarin101/Xamarin-101/WelcomeApp/WelcomeApp/WelcomeApp.iOS/WelcomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinlee/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

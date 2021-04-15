@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:WelcomeApp"
+            
+             xmlns:local="clr-namespace: WelcomeApp.ViewModel"
+            
              x:Class="WelcomeApp.MainPage">
+
+    <ContentPage.BindingContext>
+        <local: WelcomeApp.ViewModel />
+    </ContentPage.BindingContext>
+
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="40" />
             <RowDefinition Height="*" />
-            <RowDefinition Height="2" />
-            <RowDefinition Height=".5" />
-            <RowDefinition Height="2" />
         </Grid.RowDefinitions>
         
         <Grid.ColumnDefinitions>
@@ -19,14 +26,26 @@
         <Image Source="" BackgroundColor="PowderBlue"
                Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" />
 
-        <Editor Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Placeholder="enter note here">
-            
-        </Editor>
+        <Editor Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Placeholder="enter note here" Background="Pink" TextColor="White"
+                Text="{Binding TheNote}"/>
 
-        <Button Grid.Row="2" Grid.Column="0" Text="save" />
-        <Button Grid.Row="2" Grid.Column="1" Text="delete" />
 
-        <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="cool" FontSize="Large"/>
+
+        <Button Grid.Row="2" Grid.Column="0" Text="save" BackgroundColor="Pink" Command="{Binding SaveNoteCommand}"/>
+        <Button Grid.Row="2" Grid.Column="1" Text="delete" BackgroundColor="Beige" Command="{Binding EraseNoteCommand}"/>
+
+        <CollectionView ItemsSource="{Binding AllNotes}" Grid.Row="3" Grid.ColumnSpan="2">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Frame>
+                            <Label Text="{Binding .}" TextColor="Black"/>
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
 
 
 

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "j0XmyzTiqDshUIrHM84IVwVlQuKPMKC5kxbq7tmraelKHi8jwln91QBAod39JYNvSONJvMBL1unwLhEDS4MNMg==",
+  "success": true,
+  "projectFilePath": "/Users/kevinlee/visual studio projects/xamarin101/Xamarin-101/WelcomeApp/WelcomeApp/WelcomeApp.Android/WelcomeApp.Android.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinlee/.nuget/packages/xamarin.android.arch.core.common/1.0.0.1/xamarin.android.arch.core.common.1.0.0.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.arch.lifecycle.common/1.0.3.1/xamarin.android.arch.lifecycle.common.1.0.3.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.arch.lifecycle.runtime/1.0.3.1/xamarin.android.arch.lifecycle.runtime.1.0.3.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.animated.vector.drawable/27.0.2.1/xamarin.android.support.animated.vector.drawable.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.annotations/27.0.2.1/xamarin.android.support.annotations.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.compat/27.0.2.1/xamarin.android.support.compat.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.core.ui/27.0.2.1/xamarin.android.support.core.ui.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.core.utils/27.0.2.1/xamarin.android.support.core.utils.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.design/27.0.2.1/xamarin.android.support.design.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.fragment/27.0.2.1/xamarin.android.support.fragment.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.media.compat/27.0.2.1/xamarin.android.support.media.compat.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.transition/27.0.2.1/xamarin.android.support.transition.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.v4/27.0.2.1/xamarin.android.support.v4.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.v7.appcompat/27.0.2.1/xamarin.android.support.v7.appcompat.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.v7.cardview/27.0.2.1/xamarin.android.support.v7.cardview.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.v7.mediarouter/27.0.2.1/xamarin.android.support.v7.mediarouter.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.v7.palette/27.0.2.1/xamarin.android.support.v7.palette.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.v7.recyclerview/27.0.2.1/xamarin.android.support.v7.recyclerview.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.android.support.vector.drawable/27.0.2.1/xamarin.android.support.vector.drawable.27.0.2.1.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

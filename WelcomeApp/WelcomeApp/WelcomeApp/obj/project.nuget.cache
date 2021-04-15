@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWVd/9aEA/RyO4oqvQ3LitKVBVWGQdSjZ22J8BqhgBjeud2rU54iEEzZtyYHjWqFR+zQ5u63vOP2pQ5zOrhdYw==",
+  "success": true,
+  "projectFilePath": "/Users/kevinlee/visual studio projects/xamarin101/Xamarin-101/WelcomeApp/WelcomeApp/WelcomeApp/WelcomeApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinlee/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/kevinlee/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

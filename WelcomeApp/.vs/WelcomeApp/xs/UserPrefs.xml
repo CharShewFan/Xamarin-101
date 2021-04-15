@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E278A12E-40E0-4BE9-B1D0-C80DB733F7AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.WelcomeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D8FB2E0-9DE5-4DDA-ACC5-F13DFE8014D6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WelcomeApp/WelcomeApp/MainPageViewModel.cs">
+    <Files>
+      <File FileName="WelcomeApp/WelcomeApp/EmptyClass.cs" Line="28" Column="13" />
+      <File FileName="WelcomeApp/WelcomeApp/MainPage.xaml" Line="11" Column="34" />
+      <File FileName="WelcomeApp/WelcomeApp/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WelcomeApp" expanded="True">
+            <Node name="WelcomeApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPageViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WelcomeApp.Android PreferredExecutionTarget="Android.pixel_3_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
