@@ -1,0 +1,12 @@
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\bin\Debug\netstandard2.0\WelcomeApp.deps.json
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\bin\Debug\netstandard2.0\WelcomeApp.dll
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\bin\Debug\netstandard2.0\WelcomeApp.pdb
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\WelcomeApp.csprojAssemblyReference.cache
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\WelcomeApp.dll
+C:\Users\lihao\xamarin-101\WelcomeApp\WelcomeApp\WelcomeApp\obj\Debug\netstandard2.0\WelcomeApp.pdb

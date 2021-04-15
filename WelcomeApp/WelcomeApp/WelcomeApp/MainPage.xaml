@@ -3,12 +3,38 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:WelcomeApp"
              x:Class="WelcomeApp.MainPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height=".5" />
+            <RowDefinition Height="2" />
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+        <Image Source="" BackgroundColor="PowderBlue"
+               Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" />
+
+        <Editor Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Placeholder="enter note here">
+            
+        </Editor>
+
+        <Button Grid.Row="2" Grid.Column="0" Text="save" />
+        <Button Grid.Row="2" Grid.Column="1" Text="delete" />
+
+        <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="cool" FontSize="Large"/>
+
+
+
+
+
+
+
+
+    </Grid>
 
 </ContentPage>
